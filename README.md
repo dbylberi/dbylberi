@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ylber Govori</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbylberi&label=Profile%20views&color=0e75b6&style=flat" alt="dbylberi" /> </p>
-<img align="right" alt="Security" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZmdXIweWIydWR4cHhsdnd1aWE5MGJ6NGZzZXdlYmFucXFoaW9zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0>
+<img align="right" alt="Security" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZmdXIweWIydWR4cHhsdnd1aWE5MGJ6NGZzZXdlYmFucXFoaW9zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0">
 
 - 💻 I’m currently learning **Html,CSS,Python,C++,Java**
 
