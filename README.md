@@ -3,13 +3,13 @@
 
 <img align="right" alt="Security" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif">
 
-- 💻 I’m currently learning **Html,CSS,Python,C++,Java**
+-  I’m currently learning **Html,CSS,Python,C++,Java**
 
-- 🔐 I’m looking for help with **Cypersecurity**
+-  I’m looking for help with **Cypersecurity**
 
-- 👀 Ask me about **anything your heart desires!**
+-  Ask me about **anything your heart desires!**
 
-- 📫 How to reach me **ylbergovori@gmail.com**
+-  How to reach me **ylbergovori@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
