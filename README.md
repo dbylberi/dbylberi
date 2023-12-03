@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ylber Govori</h1>
+<h1 align="center">Yo 👋, I'm Ylber Govori</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbylberi&label=Profile%20views&color=0e75b6&style=flat" alt="dbylberi" /> </p>
 
-<img align="right" alt="Security" width="400" src="https://media.tenor.com/zQtIVihPry8AAAAC/warning-cyber-attack.gif">
+<img align="right" alt="Security" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif">
 
 - 💻 I’m currently learning **Html,CSS,Python,C++,Java**
 
 - 🔐 I’m looking for help with **Cypersecurity**
 
-- 👀 Ask me about **anything you want!**
+- 👀 Ask me about **anything your heart desires!**
 
 - 📫 How to reach me **ylbergovori@gmail.com**
 
