@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbylberi&label=Profile%20views&color=0e75b6&style=flat" alt="dbylberi" /> </p>
 
 <img align="right" alt="Security" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif">
-<img align="right" alt="Security" width="400" src="https://sightgain.com/wp-content/uploads/ICON_3.gif">
+<img align="right" alt="Security" width="100" src="https://sightgain.com/wp-content/uploads/ICON_3.gif">
 
 -  I’m currently learning **Html,CSS,Python,C++,Java**
 
