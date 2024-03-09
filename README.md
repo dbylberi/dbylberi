@@ -6,14 +6,6 @@
 
 
 
--  I’m currently learning **Html,CSS,Python,C++,Java**
-
--  I’m looking for help with **Cypersecurity**
-
--  Ask me about **anything your heart desires!**
-
--  How to reach me **ylbergovori@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
