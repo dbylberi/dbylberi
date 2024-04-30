@@ -1,7 +1,10 @@
-### Hi there 👋, my name is Ylber Govori
-####  16-year-old tech aficionado
-![ 16-year-old tech aficionado](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Govori Ylber
+#### Future Cybersecurity offensive hacker
+![Future Cybersecurity offensive hacker](https://pbs.twimg.com/profile_banners/1720344762492891136/1714504915/600x200)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+🔹 16-year-old tech aficionado
+🔹 Fueled by curiosity and a passion for problem-solving
+🔹 Obsessed with unraveling digital defenses
+🔹 Striving to become a formidable force in offensive cybersecurity
+🔹 Constantly exploring new techniques and tools
+🔹 Dreaming of a future as a ethical hacker hunter
