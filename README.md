@@ -22,10 +22,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dbylberi.dbylberi&"  />
 </div>
 
-
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h1 align="center">🔥   My Stats :</h1>
 
 ###
 
@@ -39,6 +38,13 @@
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dudzI5a21mNmpseGlhbmQ0dHMyYmpnbmh0N3puc3B5N2R5b3BubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ND6xkVPaj8tHO/giphy.gif"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/dbylberi/count.svg?"  />
+</div>
+
+###
 ###
 
 <div align="center">
