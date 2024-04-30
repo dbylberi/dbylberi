@@ -9,7 +9,9 @@
 🔹 Constantly exploring new techniques and tools
 🔹 Dreaming of a future as a ethical hacker hunter
 
-- 🤔 I’m looking for help with Cybersecurity 
+- 🤔 I’m looking for help with Cybersecurity
+- 📫 How to reach me: ylbergovori@gmail.com 
 - 💬 Ask me about what you desire 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: Obssesed with cats 
+- ⚡ Fun fact: Obssesed with cats
+
