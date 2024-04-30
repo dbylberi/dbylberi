@@ -25,6 +25,7 @@
 ###
 -⬛ I’m looking for help with Cybersecurity 
 -🟥 How to reach me: ylbergovori@gmail.com 
+-⬜ Obssesed with cats
 
 ###
 
