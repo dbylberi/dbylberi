@@ -23,6 +23,14 @@
 </div>
 
 ###
+🔹 16-year-old tech aficionado
+🔹 Fueled by curiosity and a passion for problem-solving
+🔹 Obsessed with unraveling digital defenses
+🔹 Striving to become a formidable force in offensive cybersecurity
+🔹 Constantly exploring new techniques and tools
+🔹 Dreaming of a future as a ethical hacker hunter
+
+###
 
 <h1 align="center">🛠 Language and tools</h1>
 
