@@ -9,7 +9,7 @@
 🔹 Constantly exploring new techniques and tools
 🔹 Dreaming of a future as a ethical hacker hunter
 
-- 🟥 I’m looking for help with Cybersecurity
+**'- 🟥 I’m looking for help with Cybersecurity**'
 - ⬛ How to reach me: ylbergovori@gmail.com 
 
 
