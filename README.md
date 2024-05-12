@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">👋 Hey there! I'm [Ylber Govori], a passionate learner diving into the fascinating world of cybersecurity. Currently, you can find me delving into the mysterious realms of Natas and Bandit, honing my skills and unraveling the secrets of security challenges.  I'm eager to apply my knowledge and expand my expertise in cybersecurity.</p>
+<p align="center">👋 I'm [Ylber Govori], a passionate learner diving into the fascinating world of cybersecurity. Currently, you can find me delving into the mysterious realms of Natas and Bandit, honing my skills and unraveling the secrets of security challenges.  I'm eager to apply my knowledge and expand my expertise in cybersecurity.</p>
 
 ###
 
