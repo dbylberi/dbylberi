@@ -2,7 +2,15 @@
 
 ###
 
-<p align="center">👋 Hey there! I'm [Ylber Govori], a passionate learner diving into the fascinating world of cybersecurity. Currently, you can find me delving into the mysterious realms of Natas and Bandit, honing my skills and unraveling the secrets of security challenges.  I'm eager to apply my knowledge and expand my expertise in cybersecurity.<br><br>🔒 #CybersecurityEnthusiast #Natas #Bandit #InfoSec 🚀</p>
+<p align="center">👋 Hey there! I'm [Ylber Govori], a passionate learner diving into the fascinating world of cybersecurity. Currently, you can find me delving into the mysterious realms of Natas and Bandit, honing my skills and unraveling the secrets of security challenges.  I'm eager to apply my knowledge and expand my expertise in cybersecurity.</p>
+
+###
+
+<p align="center">-Contact me: [ylbergovori@gmail.com]✉️<br>-💻 Kali linux user</p>
+
+###
+
+<p align="center">🔒#CybersecurityEnthusiast #Bandit #Natas #InfoSec 🚀</p>
 
 ###
 
@@ -27,6 +35,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
   <img width="" />
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
+  <img width="" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jquery logo"  />
 </div>
 
 ###
@@ -36,8 +46,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/dbylberi/dbylberi/output/snake.svg" alt="Snake animation" />
 
