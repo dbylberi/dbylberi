@@ -6,10 +6,6 @@
 
 ###
 
-<p align="center">-Contact me: [ylbergovori@gmail.com]✉️<br>-💻 Kali linux user</p>
-
-###
-
 <p align="center">🔒#CybersecurityEnthusiast #Bandit #Natas #InfoSec 🚀</p>
 
 ###
